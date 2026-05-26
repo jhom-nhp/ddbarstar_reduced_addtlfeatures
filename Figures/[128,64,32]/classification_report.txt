@@ -1,0 +1,10 @@
+               precision    recall  f1-score   support
+
+      no pole       1.00      1.00      1.00      1968
+        1[bb]       0.99      0.99      0.99      2005
+1[bt] + 1[bb]       0.99      0.99      0.99      2034
+1[bb] + 1[tb]       1.00      1.00      1.00      1993
+
+     accuracy                           0.99      8000
+    macro avg       0.99      0.99      0.99      8000
+ weighted avg       0.99      0.99      0.99      8000
